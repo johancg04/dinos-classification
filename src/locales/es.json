@@ -1,0 +1,12 @@
+{
+  "unavailable-classification": "Servicio de clasificacion no disponible en este momento.",
+  "card": {
+    "share": "Compartir",
+    "more-info": "Mas informacion"
+  },
+  "footer": {
+    "reserved-by": "Todos los derechos reservados.",
+    "developed-by": "Desarrollado por",
+    "code-student": "Codigo de estudiante"
+  }
+}

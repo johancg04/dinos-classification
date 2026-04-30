@@ -1,0 +1,12 @@
+{
+  "unavailable-classification": "Classification service is unavailable now.",
+  "card": {
+    "share": "Share",
+    "more-info": "More information"
+  },
+  "footer": {
+    "reserved-by": "All rights reserved.",
+    "developed-by": "Developed by",
+    "code-student": "Code Student"
+  }
+}
